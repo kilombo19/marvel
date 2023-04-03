@@ -1,0 +1,55 @@
+html, body {  
+
+    background-color: red;
+  }  
+
+header {
+    height: 150px;
+    background: #222625;
+    display: flex;
+    align-items: center;
+    padding-left: 170px;
+}
+.div{
+    font-family: 'Rubik', sans-serif;
+    color: red;
+    font-size: 85px;
+
+}
+main{
+    margin: px;
+}
+.container {
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    background: #222625;
+}
+#marvel-row{
+    display: flex;
+    flex-wrap: wrap;
+    height:auto;
+    width: 100%;
+}
+
+.col-md-4{
+    margin: 10px;
+    padding: 0px 0px 0px 45px ;
+    width:300px;
+    height:350px;
+}
+
+img.img-thumbnail{
+    width:300px;
+    height:300px;
+}
+
+
+.footer {
+    height: 50px;
+    background: #222625;
+}
+
+
+
+
+
